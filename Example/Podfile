@@ -3,9 +3,6 @@ use_frameworks!
 target 'RaveSDK_Example' do
   pod 'RaveSDK', :path => '../'
 
-  target 'RaveSDK_Tests' do
-    inherit! :search_paths
+  pod 'Alamofire'
 
-    
-  end
 end

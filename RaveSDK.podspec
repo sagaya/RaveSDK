@@ -17,21 +17,19 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = "Finally, don't worry about the indent, CocoaPods strips itFinally, don't worry about the indent, CocoaPods strips itFinally, don't worry about the indent, CocoaPods strips it"
 
   s.homepage         = 'https://github.com/sagaya/RaveSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sagaya' => 'shaggy.hafeez@gmail.com' }
   s.source           = { :git => 'https://github.com/sagaya/RaveSDK.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/sagaya_hafeez'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
-  s.source_files = 'RaveSDK/Classes/**/*'
-  
+  s.source_files = 'RaveSDK/**/*'
+  s.resources = "RaveSDK/Assets/*.xcassets"
   # s.resource_bundles = {
   #   'RaveSDK' => ['RaveSDK/Assets/*.png']
   # }

@@ -1,0 +1,16 @@
+PODS:
+  - RaveSDK (0.1.0)
+
+DEPENDENCIES:
+  - RaveSDK (from `../`)
+
+EXTERNAL SOURCES:
+  RaveSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RaveSDK: be47192d4ba8c46c9676d158e9f48b37aee95e52
+
+PODFILE CHECKSUM: df1e2c70dcd9ade6bddc0dbdf18b2e9c91ea8733
+
+COCOAPODS: 1.6.0.beta.2
