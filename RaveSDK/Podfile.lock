@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.1)
+  - lottie-ios (2.5.2)
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - lottie-ios
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - lottie-ios
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: 961deaad2b7b19428001b1095ee1de18488aa441
+
+COCOAPODS: 1.6.0.beta.2
