@@ -6,6 +6,6 @@ target 'RaveExample' do
   use_frameworks!
 
   # Pods for RaveExample
-pod 'RaveSDK', :path => "/Users/sagayaabdulhafeez/Projects/IOS/Swift/pods/RaveSDK/RaveSDK"
+pod 'RaveSDK', :path => "/Users/sagayaabdulhafeez/Projects/IOS/Swift/pods/RaveSDK"
 
 end

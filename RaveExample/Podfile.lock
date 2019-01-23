@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.8.1)
+  - lottie-ios (2.5.2)
+  - RaveSDK (0.1.0):
+    - Alamofire
+    - lottie-ios
+    - SwiftKeychainWrapper
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - RaveSDK (from `/Users/sagayaabdulhafeez/Projects/IOS/Swift/pods/RaveSDK`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - lottie-ios
+    - SwiftKeychainWrapper
+
+EXTERNAL SOURCES:
+  RaveSDK:
+    :path: "/Users/sagayaabdulhafeez/Projects/IOS/Swift/pods/RaveSDK"
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  RaveSDK: 811f41036aedd1f45e4574cd759bed93e75c98d2
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: 7de8416f2632c24399cbdc3d9893e30a6ff6614e
+
+COCOAPODS: 1.6.0.beta.2

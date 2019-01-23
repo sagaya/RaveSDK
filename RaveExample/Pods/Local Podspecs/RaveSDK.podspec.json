@@ -1,0 +1,36 @@
+{
+  "name": "RaveSDK",
+  "version": "0.1.0",
+  "summary": "A short description of RaveSDK.",
+  "description": "sadaFFinally, don't worry about the indent, CocoaPods stripsinally, don't worry about the indent, CocoaPods stripsdsas",
+  "homepage": "http://EXAMPLE/FrameworkTest",
+  "authors": {
+    "sagaya": "shaggy.hafeez@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/sagaya/Rave",
+    "tag": "0.1.0"
+  },
+  "source_files": [
+    "RaveSDK",
+    "Classes/*.{swift}"
+  ],
+  "resources": [
+    "RaveSDK/Images/*{.png}",
+    "RaveSDK/UI/*{.storyboard}"
+  ],
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftKeychainWrapper": [
+
+    ],
+    "lottie-ios": [
+
+    ]
+  }
+}
